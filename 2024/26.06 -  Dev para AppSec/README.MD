@@ -27,3 +27,11 @@
 - [Comunidades e pessoas](https://rayanepimentel.github.io/InfoSec-iniciante/site/comunidade/hall.html)
 
 - [Guia de CyberSecurity](https://github.com/arthurspk/guiadecybersecurity)
+
+### Plataformas
+
+- [OWASP](https://owasp.org/)
+- [PortSwigger](https://portswigger.net/web-security)
+- [TryHackme](https://tryhackme.com/)
+- [Pentester Lab](https://pentesterlab.com/)
+- [Hacking Club - Crowsec](https://lp.hackingclub.com/) :Brazil: 
