@@ -14,6 +14,8 @@
 
 - [Exemplo de implementação de SAST e DAST](https://github.com/rayanepimentel/InfoSec-iniciante/tree/main/devSecOps)
 
+- [Roadmap AppSec Br](https://www.instagram.com/p/C8XqwQaPUi-/)
+
 - [Roadmap AppSec Br](https://github.com/PedroKetzer/roadmap-appsecbr)
 
 - [Roadmap de API Security](https://roadmap.sh/best-practices/api-security)
