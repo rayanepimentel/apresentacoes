@@ -34,4 +34,4 @@
 - [PortSwigger](https://portswigger.net/web-security)
 - [TryHackme](https://tryhackme.com/)
 - [Pentester Lab](https://pentesterlab.com/)
-- [Hacking Club - Crowsec](https://lp.hackingclub.com/) :Br: 
+- [Hacking Club - Crowsec](https://lp.hackingclub.com/) 
