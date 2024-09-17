@@ -1,4 +1,4 @@
-# Apresentação de Desenvolvimento para AppSec
+# Desenvolvimento para AppSec
 
 ## Apresentação:
 
