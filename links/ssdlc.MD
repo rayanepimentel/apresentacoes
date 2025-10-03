@@ -18,6 +18,7 @@
 - [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
 - [CVSS](https://www.first.org/cvss/)
 - [Avaliação comparativa do desempenho de inteligências artificiais generativas e ferramentas tradicionais na análise de código-fonte JavaScript](https://doi.org/10.5753/sbseg_estendido.2025.11655)
+- [Securecodewarrior](https://www.securecodewarrior.com/press-releases/secure-code-warrior-survey-finds-86-of-developers-do-not-view-application-security-as-a-top-priority)
 - [Comunidades e Pessoas](https://rayanepimentel.github.io/InfoSec-iniciante/site/comunidade/hall.html)
 
 
