@@ -6,6 +6,7 @@
 - [Modelagem de Ameaça - Minhas anotações](https://github.com/rayanepimentel/InfoSec-iniciante/blob/main/cursos/desenvolvimento-seguro/modelagem-ameaca/00-modelagem.md)
 - [OWASP ZAP - DAST](https://www.zaproxy.org/)
 - [Horusec - SAST](https://horusec.io/site/)
+- [Security Onion](https://github.com/Security-Onion-Solutions/securityonion)
 - [Passo a passo como implementa SAST e DAST no Pipeline](https://github.com/rayanepimentel/InfoSec-iniciante/blob/main/devSecOps/README.md)
 - [Série: Segurança no Desenvolvimento: Da Teoria à Prática](https://dev.to/raysh_/seguranca-no-desenvolvimento-da-teoria-a-pratica-introducao-3fa9)
 - [OWASP](https://owasp.org/)
